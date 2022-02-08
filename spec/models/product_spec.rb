@@ -31,6 +31,7 @@ RSpec.describe Product, type: :model do
       @category.name = 'TestName'
       @product.category = @category
       expect(@product.valid?).to be false
+      expect(@product.error.full_messages).to be true
     end
     it "it should not be valid without a valid quantity" do
       @product = Product.new
