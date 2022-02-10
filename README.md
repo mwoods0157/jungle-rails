@@ -31,3 +31,9 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+## Final Product
+
+!['main-page'](https://user-images.githubusercontent.com/38844101/153431178-90432f7b-3ece-4da4-94b8-340532508ad3.png)
+
+!['cart-page'](https://user-images.githubusercontent.com/38844101/153431312-2c1bd0a8-16ab-4f33-b7aa-15b950f326a3.png)
